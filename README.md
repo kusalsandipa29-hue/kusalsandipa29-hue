@@ -10,7 +10,7 @@
 
 <sub><b>SOFTWARE PROJECT MANAGEMENT</b> &nbsp;|&nbsp; PROJECT MANAGEMENT INTERN · SRI LANKA TELECOM</sub>
 
-<br/>
+<p><sub><b>OPEN TO</b> &nbsp;Internships · Graduate roles · Project coordination opportunities · Sri Lanka</sub></p>
 
 <a href="https://kusal-sandipa-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-023047?style=flat-square&logo=vercel&logoColor=5EE1F2" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/kusal-sandipa-341507336"><img src="https://img.shields.io/badge/LinkedIn-023047?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNUVFMUYyJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHJlY3QgeD0nMicgeT0nNycgd2lkdGg9JzIwJyBoZWlnaHQ9JzE0JyByeD0nMicvPjxwYXRoIGQ9J00xNiA3VjVhMiAyIDAgMCAwLTItMmgtNGEyIDIgMCAwIDAtMiAydjJNMiAxM2gyMCcvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
@@ -45,10 +45,6 @@ The software is built by SLT's development teams. My contribution is on the **pr
   <tr>
     <td><b>Certification</b></td>
     <td>Oracle Project Management Certification <i>(in progress)</i></td>
-  </tr>
-  <tr>
-    <td><b>Open to</b></td>
-    <td>Internships, graduate roles and project coordination opportunities · Sri Lanka</td>
   </tr>
 </table>
 
@@ -113,15 +109,15 @@ The software is built by SLT's development teams. My contribution is on the **pr
 
 <table>
   <tr>
-    <td width="34%"><b>Planning &amp; tracking</b></td>
+    <td width="30%"><b>Planning</b></td>
     <td><img src="https://img.shields.io/badge/Jira-023047?style=flat-square&logo=jira&logoColor=5EE1F2" alt="Jira" /></td>
   </tr>
   <tr>
-    <td><b>Team communication</b></td>
+    <td><b>Communication</b></td>
     <td><img src="https://img.shields.io/badge/Slack-023047?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNUVFMUYyJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHBhdGggZD0nTTIxIDE1YTIgMiAwIDAgMS0yIDJIN2wtNCA0VjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAyeicvPjwvc3ZnPg%3D%3D" alt="Slack" /></td>
   </tr>
   <tr>
-    <td><b>Documentation &amp; reporting</b></td>
+    <td><b>Documentation</b></td>
     <td>
       <img src="https://img.shields.io/badge/Microsoft_Word-023047?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNUVFMUYyJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHBhdGggZD0nTTE0IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY4eicvPjxwYXRoIGQ9J00xNCAydjZoNk04IDEzaDhNOCAxN2g4Jy8%2BPC9zdmc%2B" alt="Microsoft Word" />
       <img src="https://img.shields.io/badge/Microsoft_Excel-023047?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNUVFMUYyJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHJlY3QgeD0nMycgeT0nMycgd2lkdGg9JzE4JyBoZWlnaHQ9JzE4JyByeD0nMicvPjxwYXRoIGQ9J00zIDloMThNMyAxNWgxOE05IDN2MTgnLz48L3N2Zz4%3D" alt="Microsoft Excel" />
@@ -129,7 +125,7 @@ The software is built by SLT's development teams. My contribution is on the **pr
     </td>
   </tr>
   <tr>
-    <td><b>Version control &amp; environments</b></td>
+    <td><b>Version control</b></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub-023047?style=flat-square&logo=github&logoColor=5EE1F2" alt="GitHub" />
       <img src="https://img.shields.io/badge/Bitbucket-023047?style=flat-square&logo=bitbucket&logoColor=5EE1F2" alt="Bitbucket" />
@@ -137,7 +133,7 @@ The software is built by SLT's development teams. My contribution is on the **pr
     </td>
   </tr>
   <tr>
-    <td><b>Technology exposure</b><br/><sub>team stacks I work alongside, not engineering expertise</sub></td>
+    <td><b>Exposure</b><br/><sub>team stacks, not engineering expertise</sub></td>
     <td>
       <img src="https://img.shields.io/badge/MERN-1B3B52?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNUVFMUYyJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHBhdGggZD0nTTEyIDIgMiA3bDEwIDUgMTAtNXonLz48cGF0aCBkPSdtMiAxNyAxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUnLz48L3N2Zz4%3D" alt="MERN stack" />
       <img src="https://img.shields.io/badge/PERN-1B3B52?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjNUVFMUYyJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHBhdGggZD0nTTEyIDIgMiA3bDEwIDUgMTAtNXonLz48cGF0aCBkPSdtMiAxNyAxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUnLz48L3N2Zz4%3D" alt="PERN stack" />
@@ -150,9 +146,16 @@ The software is built by SLT's development teams. My contribution is on the **pr
 
 ## Featured projects
 
-<sub>Internal Sri Lanka Telecom projects. I contribute on the <b>project management and coordination</b> side; the software is built by SLT's development teams. Details stay high-level to respect confidentiality, project technologies aren't disclosed, and the source code isn't public.</sub>
+Four ongoing Sri Lanka Telecom projects. My role on all of them is **Project Management Intern**: I contribute on the project management and coordination side, and the software is built by SLT's development teams.
 
-<br/>
+| Project | My project management focus |
+|---|---|
+| [Cloud POS System](https://kusal-sandipa-portfolio.vercel.app/projects/cloud-pos)<br/><sub>Point of sale · cloud</sub> | Requirements refinement and task tracking |
+| [TapFare Smart Bus Fare System](https://kusal-sandipa-portfolio.vercel.app/projects/tapfare)<br/><sub>Smart transport · RFID</sub> | Stakeholder planning and user journeys |
+| [Vehicle Fleet Management](https://kusal-sandipa-portfolio.vercel.app/projects/vehicle-fleet)<br/><sub>Enterprise · fleet operations</sub> | Progress and open-item monitoring |
+| [E-Run Chart System](https://kusal-sandipa-portfolio.vercel.app/projects/e-run-chart)<br/><sub>Enterprise · existing system</sub> | Development and maintenance coordination |
+
+<sub>Details stay high-level to respect confidentiality. Project technologies aren't disclosed and the source code isn't public.</sub>
 
 <table>
   <tr>
@@ -162,12 +165,9 @@ The software is built by SLT's development teams. My contribution is on the **pr
       <sub>POINT OF SALE · BUSINESS SOFTWARE</sub>
       <p><b>Overview</b>: cloud-based point of sale software supporting sales-related business workflows.<br/>
       <b>Scope</b>: retail and hospitality-oriented processes. Detailed scope is internal.</p>
-      <b>My role</b>: Project Management Intern
       <ul>
-        <li>Supporting coordination between the project team and developers</li>
-        <li>Following business and functional requirements as they're refined</li>
-        <li>Helping track development tasks, progress and open issues</li>
-        <li>Contributing to project documentation and status reporting</li>
+        <li>Following business and functional requirements as they're refined, and keeping them traceable in project documentation</li>
+        <li>Helping track development tasks, progress and open issues with the developers</li>
       </ul>
       <a href="https://kusal-sandipa-portfolio.vercel.app/projects/cloud-pos"><b>Read the case study →</b></a>
     </td>
@@ -179,12 +179,9 @@ The software is built by SLT's development teams. My contribution is on the **pr
       <sub>SMART TRANSPORTATION · DIGITAL FARE COLLECTION</sub>
       <p><b>Overview</b>: RFID card-based fare collection for public transport.<br/>
       <b>Scope</b>: passenger, operator and regulator journeys, with the National Transport Commission of Sri Lanka as a <i>target</i> stakeholder (not an official adoption).</p>
-      <b>My role</b>: Project Management Intern
       <ul>
-        <li>Supporting project coordination with the development team</li>
-        <li>Following business and functional requirements</li>
-        <li>Helping map user journeys and system workflows</li>
-        <li>Supporting stakeholder-oriented planning and documentation</li>
+        <li>Helping map user journeys and system workflows for passengers, operators and regulators</li>
+        <li>Supporting stakeholder-oriented planning and documentation around a public-sector target stakeholder</li>
       </ul>
       <a href="https://kusal-sandipa-portfolio.vercel.app/projects/tapfare"><b>Read the case study →</b></a>
     </td>
@@ -196,12 +193,9 @@ The software is built by SLT's development teams. My contribution is on the **pr
       <sub>ENTERPRISE SOFTWARE · FLEET OPERATIONS</sub>
       <p><b>Overview</b>: enterprise software supporting how the organisation manages vehicles.<br/>
       <b>Scope</b>: fleet operations and operational coordination. Modules and integrations are internal.</p>
-      <b>My role</b>: Project Management Intern
       <ul>
-        <li>Supporting coordination of software development activities</li>
-        <li>Understanding requirements raised by the business</li>
-        <li>Helping monitor project progress and open items</li>
-        <li>Collaborating with team members on documentation</li>
+        <li>Understanding requirements raised by the business in an established enterprise environment</li>
+        <li>Helping monitor progress and open items across ongoing development work</li>
       </ul>
       <a href="https://kusal-sandipa-portfolio.vercel.app/projects/vehicle-fleet"><b>Read the case study →</b></a>
     </td>
@@ -213,12 +207,9 @@ The software is built by SLT's development teams. My contribution is on the **pr
       <sub>ENTERPRISE OPERATIONS SOFTWARE</sub>
       <p><b>Overview</b>: an existing system that supports day-to-day operational workflows.<br/>
       <b>Scope</b>: development and maintenance of the existing system.</p>
-      <b>My role</b>: Project Management Intern
       <ul>
-        <li>Supporting coordination of development and maintenance work</li>
-        <li>Understanding the existing system and its operational context</li>
-        <li>Helping track tasks, progress and issues</li>
-        <li>Contributing to project documentation</li>
+        <li>Coordinating development and maintenance work on a system people already depend on</li>
+        <li>Helping keep issues and requests organised, balancing improvements with stability</li>
       </ul>
       <a href="https://kusal-sandipa-portfolio.vercel.app/projects/e-run-chart"><b>Read the case study →</b></a>
     </td>
